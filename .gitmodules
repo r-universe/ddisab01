@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "quest"]
+	path = quest
+	url = https://github.com/cran/quest
+	shallow = true
+	registered = true
+[submodule "str2str"]
+	path = str2str
+	url = https://github.com/cran/str2str
+	shallow = true
+	registered = true
